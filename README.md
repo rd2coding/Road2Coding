@@ -36,7 +36,12 @@
 ---
 # 学习路线
 
-- [Java后端开发学习路线](https://mp.weixin.qq.com/s/rAoamIey7cARMES7kfIaLw)
+- [C/C++开发+自学路线+知识点大梳理！](https://mp.weixin.qq.com/s/ac8vgjob8nDqM1Q7FGLRiA)
+- [Java后端开发+自学路线+知识点大梳理！](https://mp.weixin.qq.com/s/x9E7ogAxFNpODXkAXCZZ3w)
+- [前端开发+自学路线+知识点大梳理！](https://mp.weixin.qq.com/s/xUKlD-Ro4x55NfANAwxJUw)
+- [大数据开发+自学路线+知识点大梳理！](https://mp.weixin.qq.com/s/vBCwU-BCsGVNpjJM__LheQ)
+- [嵌入式开发+自学路线+知识点大梳理！](https://mp.weixin.qq.com/s/nkBsUgbuMK3ArHfFc2417w)
+
 
 <p align="center">
     <a href="https://mp.weixin.qq.com/s/ePhaYezFblgt0NgbvtWqww" target="_blank">
@@ -46,12 +51,9 @@
 
 > 注：图片上传后可能被压缩，如需无损版高清大图，可去微信公众号「CodeSheep」后台回复「高清大图」四个字获取即可
 
-- [C语言/C++开发学习路线（偏后台）](https://mp.weixin.qq.com/s/tXilzUzN7cDhnc3ztw4Vlw)
-- Linux学习路线
-- [前端开发学习路线](https://mp.weixin.qq.com/s/Y50BZPXfWhQw5xYl7WgEZw)
 
 ---
-# 项目推荐
+# 开源项目推荐
 
 - [看完这篇，别人的开源项目结构应该能看懂了](https://mp.weixin.qq.com/s/5Ar5B9Ah2BdO8i9YjMQ7Qg)
 - [上次谁说要Java开源项目来着？来！](https://mp.weixin.qq.com/s/y59hmDbQj1QglVj90viZqw)
@@ -69,6 +71,8 @@
 - [我的Java后端开发小书架分享](https://mp.weixin.qq.com/s/voNG467kSVfR-yjwelQhow)
 - [必读计算机编程好书推荐！程序员小伙搬出了他的书架！](https://www.bilibili.com/video/BV1kJ411W7pi)
 - [自学C/C++书籍推荐（自学C/C++看书路线推荐）](https://www.bilibili.com/video/BV1ob411m76i)
+- [前端开发学习资料（书籍）大盘点](https://mp.weixin.qq.com/s/JFmj5cMhpJ2BKFq2p4IQGw)
+- [嵌入式开发学习资料（书籍）推荐](https://mp.weixin.qq.com/s/nkBsUgbuMK3ArHfFc2417w)
 
 ---
 # 自学编程
@@ -99,24 +103,33 @@
 - 多线程/并发
 
   - [ThreadLocal源码剖析](https://mp.weixin.qq.com/s/ND-nUCGvXTHkEClKqN1qrQ)
-  - 线程池详解
+  - [线程池详解](https://mp.weixin.qq.com/s/TF04dB-i0q0-dOTqlprmYA)
+  - [Java多线程+并发编程知识点详细总结PDF下载](https://mp.weixin.qq.com/s/EGQAuvITVJT3fZUdQG84sw)
+  - [周日氪金之：彻底搞懂多线程中的volatile！](https://mp.weixin.qq.com/s/fxl3od5UObRrPGe2AVvAPA)
+  - [面试官最爱的volatile关键字](https://mp.weixin.qq.com/s/kQ498ifh4OUEDd829JIhnQ)
+  - [异步编程的几种方式](https://mp.weixin.qq.com/s/eKIkNSY-deuJNOFlaO8Cug)
+  - [【图文并茂】Java并发之原子性、有序性、可见性](https://mp.weixin.qq.com/s/30__VavtpJxEojUjYglGhQ)
   - 各种“锁”大科普
   - JUC工具类解析
 
 - JVM
-  - JVM内存模型剖析
-  - JVM垃圾回收详解
-  - 类加载机制
-  - 性能调优和问题排查
+
+  - [JVM垃圾回收18问](https://mp.weixin.qq.com/s/XsZUF2nBUSEJoGIA8RimJw)
+  - [JVM硬核18问：这一问一答的形式还凑合不？](https://mp.weixin.qq.com/s/1UwaUnPT4i6zZMu-zZztHA)
+  - [做了10个小实验：搞懂了JVM三大参数类型](https://mp.weixin.qq.com/s/TlX81xJ9fnuDIOTkDxrd1Q)
+  - [YGC问题排查，又让我涨姿势了](https://mp.weixin.qq.com/s/-8xYoAkBUoavcSl69I0XJw)
+  - [线上服务的FGC问题排查，涨知识了](https://mp.weixin.qq.com/s/Sjh9qFPKF250vLQGZig6nw)
+  - [羊老姆上线：抄起键盘就编译JDK源码，结果上头了](https://mp.weixin.qq.com/s/MDM6w2Dw_HYc9XzZevQNeA)
+  - [【面试必问】聊聊 Java的 GC机制](https://mp.weixin.qq.com/s/bHkgpznnqixDNyDKwdAbOg)
 
 - 数据结构和算法
 
+  - [算法复杂度分析，这次真懂了](https://mp.weixin.qq.com/s/mBTyBkeNHoW7-Rcbv2Exwg)
   - [24张图，九大数据结构安排得明明白白！](https://mp.weixin.qq.com/s/ZVwIUN-xf9FuxOFXW8H3Nw)
   - [诸葛亮vs司马懿，排序算法大战谁能笑到最后？](https://mp.weixin.qq.com/s/za_MJY3-r9Gfiu3BJfej7Q)
   - [十大经典排序算法大梳理 (动图+代码)](https://mp.weixin.qq.com/s/ekGdneZrMa23ALxt5mvKpQ)
   - [数据结构里各种难啃的“树”，一文搞懂它](https://mp.weixin.qq.com/s/k4-RaW4ROlo6chSXsO_4AA)
   - [一篇文章彻底学会递归思路解题！](https://mp.weixin.qq.com/s/-V0jBkPoZHYC2jLfSnQ6-g)
-  - 哈希算法详解
 
 
 - 计算机网络（TCP/IP协议栈）
@@ -132,12 +145,16 @@
 - 操作系统
 
   - [硬核科普：程序员必知的 89 个操作系统核心概念](https://mp.weixin.qq.com/s/VsQ7IpP-jnXSjJhOAzl-ew)
+  - [1.3w字，操作系统高频面试题大分享](https://mp.weixin.qq.com/s/oTEMOQY1xcG8uVceW-kLDA)
 
 - 数据库/SQL
 
   - [left join、right join和join，傻傻分不清？](https://mp.weixin.qq.com/s/o150rmPOgzUeafVTh-ESmQ)
   - [数据库索引到底是什么](https://mp.weixin.qq.com/s/WMuxdG3ymNMWWDk1XhLwZQ)
   - [数据库索引的原理和使用准则](https://mp.weixin.qq.com/s/4K3borSZXt-yc5t5UJnJpQ)
+  - [为什么 MySQL索引要用 B+tree](https://mp.weixin.qq.com/s/d7Zfat2fP6IX5DMKKtEIjQ)
+  - [梳理开发中那些常用的MySQL优化](https://mp.weixin.qq.com/s/jl0j-T6XldN6Nq-jYoQ-gA)
+  - [上次是谁说要MySQL数据库面试题来着？先来30道保个底](https://mp.weixin.qq.com/s/aBboeqEphejICklAKLqS2Q)
   - 数据库锁机制
   - 数据库事务特性与隔离级别详解
   - SQL优化详解
@@ -332,13 +349,6 @@
 - [简历模板分享](https://mp.weixin.qq.com/s/-qlU2-a-vvXWOHXzKHRm6A)
 
 ---
-# 其他技术文章
-
-- [扫码付款背后的原理居然是这样](https://mp.weixin.qq.com/s/RjVLsAhiMIYzsMhXJiReNg)
-
-
-
----
 # 关于作者
 
 ---
@@ -359,9 +369,11 @@
 ---
 ### 我的心路历程
 
+- [痴声痴色痴梦痴情几辈痴人](https://mp.weixin.qq.com/s/VqVFhueNtm9jN1GrW4Ebsg)
 - [我的毕业季，没有一点点仪式感](https://mp.weixin.qq.com/s/0iSzqJBj7YHkijGxbFUqCQ)
 - [既然硕士毕业也去搞开发，那我还读个喵的研？](https://mp.weixin.qq.com/s/_Kt9OmaBVDDj6S7rsdC-Aw)
 - [二线城市的程序员活得好吗？](https://mp.weixin.qq.com/s/gOo8ztVLdXp3m_rvBozQpQ)
+- [我的3平米小小书房](https://mp.weixin.qq.com/s/KTD15ZQ4xdTJXt-MVWa7zg)
 - [自学编程的八大误区！克服它！](https://mp.weixin.qq.com/s/r_vm7lA2Ul_ZFhkx60wplg)
 - [我的本科回忆录：从迷茫自卑到保送华科](https://mp.weixin.qq.com/s/t9F6Z-DrybWLUxVrPTRPJw)
 - [聊一聊加班多该如何有效地自我提升](https://mp.weixin.qq.com/s/2mt8NGW0fhx-J1R2GyvKKQ)
@@ -370,6 +382,8 @@
 - [转行的路，走起来其实有点累...](https://mp.weixin.qq.com/s/FPreCde-JHl2D6HZDGK7qg)
 - [来B站一年，我活成了人的模样！](https://mp.weixin.qq.com/s/-RWgqMi2iKFUQGWbgyyo3w)
 - [快30岁的我，终于赚到人生第一个10W！](https://mp.weixin.qq.com/s/i-EFuFb7yPpoOidme18EWA)
+- [自学党/野生猿，项目经验上哪搞？](https://mp.weixin.qq.com/s/-mFZnE8-DNG6XVM-t589-Q)
+- [今天的南京，很冷很冷](https://mp.weixin.qq.com/s/lfm_y0WskLrQJc55JYdu2Q)
 
 
 ---
