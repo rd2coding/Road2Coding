@@ -32,6 +32,17 @@
   <a href="https://www.zhihu.com/people/code_sheep/activities"><img src="https://img.shields.io/badge/zhihu-知乎-informational" alt="知乎：CodeSheep程序羊"></a>
 </p>
 
+---
+# 置顶说明
+
+最近，我花了大把力气，把自用的编程学习资源做了个大整理。
+
+都是纯肝货，目录如下，有需要的可以自取。
+
+![](https://codesheep.oss-cn-hangzhou.aliyuncs.com/blog/resintro1.jpg)
+
+- 链接：https://pan.baidu.com/s/1jEjcF96iVAXEXaadE1V6RQ
+- 提取码：f23d
 
 ---
 # 学习路线
