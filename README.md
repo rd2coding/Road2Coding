@@ -45,6 +45,11 @@
 - 提取码：f23d
 
 ---
+# 最新置顶资源下载
+
+- [自学编程一路走来，这些私藏工具和网站我全贡献出来了！](https://mp.weixin.qq.com/s/XUHnLCbq7mDWhOc9imTVzg)
+
+---
 # 学习路线
 
 - [C/C++开发+自学路线+知识点大梳理！](https://mp.weixin.qq.com/s/ac8vgjob8nDqM1Q7FGLRiA)
