@@ -47,6 +47,7 @@
 ---
 # 最新置顶资源下载
 
+- [常用Linux命令速查备忘手册！](https://mp.weixin.qq.com/s/GJYVt376C_g4406ux5uw0Q)
 - [自学编程一路走来，这些私藏工具和网站我全贡献出来了！](https://mp.weixin.qq.com/s/XUHnLCbq7mDWhOc9imTVzg)
 
 ---
