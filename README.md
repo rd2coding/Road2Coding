@@ -858,7 +858,7 @@
 - [实践应用：Spring Boot Admin2.0开箱体验](https://mp.weixin.qq.com/s/jdV8X_R9eeZRus5bfoSNNg)
 - [实践应用：Spring Boot项目传参校验最佳实践](https://mp.weixin.qq.com/s/WQ-2fPOxk0GvSHiRR5-kQw)
 - [实践应用：Spring Boot项目优雅传参方式讨论与实践](https://mp.weixin.qq.com/s/AdtUX9davFH-C60gBypnoA)
-- [实践应用：基于Spring Security Oauth2的SSO单点登录+JWT权限控制实践](hhttps://mp.weixin.qq.com/s/ZLUOWYVsf6gDcT94X_saJg)
+- [实践应用：基于Spring Security Oauth2的SSO单点登录+JWT权限控制实践](https://mp.weixin.qq.com/s/ZLUOWYVsf6gDcT94X_saJg)
 - [实践应用：封装一个好用的流水号ID生成器id-spring-boot-starter](https://mp.weixin.qq.com/s/AEWjwIEjVMf_cRixiIb7-Q)
 - [实践应用：封装一个好用的elasticsearch-spring-boot-starter](https://mp.weixin.qq.com/s/V2jGlNn4EsM-_RheIk0TYg)
 - [实践应用：Spring Boot项目集成jasypt-spring-boot加密组件](https://mp.weixin.qq.com/s/CTDEFxTKdk0qxK9VNSEIqw)
