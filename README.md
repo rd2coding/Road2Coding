@@ -505,6 +505,7 @@
     </a>
 </p>
 
+- [IDEA 2021.3升级发布](https://mp.weixin.qq.com/s/9Ar4KhQYSEP8B2mBaudWpQ)
 - [IDEA 2021.2升级体验](https://mp.weixin.qq.com/s/WQiHpAv4bjEIz3fghzamEA)
 - [IDEA 2021.1升级体验](https://mp.weixin.qq.com/s/dojfVvkrxru1eH8Pep7irw)
 - [IDEA 2020.3升级体验](https://mp.weixin.qq.com/s/FhURpMKa9oi2FrV_0woOtw)
@@ -715,6 +716,7 @@
 - [视频科普：计算机网络该怎么学](https://www.bilibili.com/video/BV1U4411M71p)
 - [概念科普：如何系统地学习计算机网络](https://mp.weixin.qq.com/s/v34D8xWGPW8LgENy3G2QZA)
 - [概念科普：计算机网络的89个核心概念](https://mp.weixin.qq.com/s/t8Dz-4D6BuBevZYz5Jhklg)
+- [概念科普: 为什么网络IO会被阻塞](https://mp.weixin.qq.com/s/M9DANSrACS4xUt6UM03IxA)
 - [工具科普：学网络时，可以先落实这几款利器工具](https://mp.weixin.qq.com/s/hZF2P4oQE6dsuXKWLEgDKA)
 - [探究原理：浏览器输入网址一回车，后面到底发生了什么](https://mp.weixin.qq.com/s/t2Csrl7idUXISKW54cpV1g)
 - [探究原理：你可能没有细究过的TCP/IP](https://mp.weixin.qq.com/s/AjcW7ELOTTqqdnUHpMbccQ)
@@ -724,10 +726,12 @@
 - [探究原理：一台Linux服务器最多能支撑多少个TCP连接](https://mp.weixin.qq.com/s/QuCxkSjdM_E12lXlpnhKIQ)
 - [探究原理：都说HTTP协议无状态，这里的「状态」到底指什么](https://mp.weixin.qq.com/s/EZwOUGMrGKEF_POisJKmuw)
 - [探究原理：Session/Cookie/Token](https://mp.weixin.qq.com/s/5oFKdbFWgZrwqESNTZn77w)
+- [探究原理：Cookie、Session、Token 背后的故事](https://mp.weixin.qq.com/s/oMDCi0kLpn31T00QkxfkQA)
 - [探究原理：三次握手底层深度理解](https://mp.weixin.qq.com/s/u242LSHnePBg_KbMc0ioTA)
 - [知识总结：计网IP部分知识总结](https://mp.weixin.qq.com/s/21Tk-8gxpDoH9DNWNYCWmA)
 - [知识总结：图解HTTP的前世今生](https://mp.weixin.qq.com/s/vk_QZDpJLVEXXNe1jYzd8w)
 - [知识总结：HTTP和HTTPS协议大总结](https://mp.weixin.qq.com/s/8HJ-V1BbV9wp89HS-XulXw)
+- [面试相关：2w+字的计算机网络常见面试题整理](https://mp.weixin.qq.com/s/C82YpO0gwC8LHcJSHbR81A)
 - [面试相关：GET和POST到底有什么区别](https://mp.weixin.qq.com/s/H4gbg7bfnw61jZQcapTnMw)
 - [面试相关：面试最爱问的三次握手和四次挥手问题](https://mp.weixin.qq.com/s/lFnyBaaP3f0eNcKGW5RtCg)
 - [面试相关：HTTP常见面试题集合](https://mp.weixin.qq.com/s/FJGKObVnU61ve_ioejLrtw)
@@ -917,6 +921,7 @@
 - [原理探究：如何设计一个高并发的秒杀架构？](https://mp.weixin.qq.com/s/fLLd-ml-gdo3-700iJso_A)
 - [原理探究：亿级流量网关设计思路](https://mp.weixin.qq.com/s/J0aSVry1-Ss1OTA-jQAX3w)
 - [原理探究：分布式架构的几个常见的坑](https://mp.weixin.qq.com/s/pg6lyAkgAaqSAZjiPgQTWA)
+- [原理探究：什么是异地多活架构](https://mp.weixin.qq.com/s/Uv9pAOocep2rUW5qgGFSSw)
 - [实践应用：RPC框架实践之：Apache Thrift](https://mp.weixin.qq.com/s/iCw-CHa5ITz6zoQI78Wb3w)
 - [实践应用：RPC框架实践之：Google gRPC](https://mp.weixin.qq.com/s/LdzkBUzvyjMVW7pgzkA23w)
 - [实践应用：Spring Cloud Feign的两种使用姿势](https://mp.weixin.qq.com/s/U4eustBBu9N-6B1SRsYc7w)
@@ -1147,6 +1152,7 @@
 - [Java：面试必问的ConcurrentHashMap精讲](https://mp.weixin.qq.com/s/cnpfLL4TeL2oyEcHia6Bmg)
 - [Java：说说什么是Java内存模型](https://mp.weixin.qq.com/s/lEgHPertXyguZIkv61LlKQ)
 - [Java：浮点数精度问题面试例析](https://mp.weixin.qq.com/s/VXRRMabz_fvwnZeLWT-ybg)
+- [计网：2w+字的计算机网络常见面试题整理](https://mp.weixin.qq.com/s/C82YpO0gwC8LHcJSHbR81A)
 - [计网：面试最爱问的三次握手和四次挥手问题](https://mp.weixin.qq.com/s/lFnyBaaP3f0eNcKGW5RtCg)
 - [计网：计算机网络高频12问](https://mp.weixin.qq.com/s/PIGfhMaAx9R5C4x5eJQnIw)
 - [计网：GET和POST到底有什么区别](https://mp.weixin.qq.com/s/H4gbg7bfnw61jZQcapTnMw)
@@ -1228,6 +1234,7 @@
 
 ---
 
+- [北京有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/f8J0pW8Sdj9_PKO2kV3mqw)
 - [成都有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/UDWHt3QwsZBfZ25-pddwhQ)
 - [武汉有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/bjHmAtPrSKQCDjfr9Mu0_Q)
 - [南京有哪些知名的IT/互联网公司？](https://mp.weixin.qq.com/s/kskE2wJx_QtT6vCgsrUgIA)
@@ -1382,6 +1389,9 @@
 - [美团大佬分享：写给工程师的几条精进建议](https://mp.weixin.qq.com/s/gJby-f46_hv5Wjk3Eu5iaw)
 - [我，生物专业出身，自学转到了互联网](https://mp.weixin.qq.com/s/yhY1VfuCEB0DSWYtBzMKDA)
 - [坦白贴：十一在家我都逛哪些技术网站？](https://mp.weixin.qq.com/s/jboZwMaxfs1mOdf5mxPbeA)
+- [在国外当程序员是一种什么样的体验](https://mp.weixin.qq.com/s/Qd3zNLGDYbifACJn82p1PA)
+- [很佩服的一个Google大佬，离职了](https://mp.weixin.qq.com/s/LdTDhE8sUjLZf0My1AXK2g)
+- [雷军：我的程序人生路](https://mp.weixin.qq.com/s/wxpJKTbivM63izuyHsneUw)
 
 ## 读研深造
 
@@ -1409,6 +1419,7 @@
 - [六成大学生认为自己毕业10年内会年入百万？](https://mp.weixin.qq.com/s/bj6LG7bq1Og8-fplcLjROA)
 - [拼多多和电网offer，要你会选哪个？](https://mp.weixin.qq.com/s/bWcoi4oEIq6_F_NSkO7lOA)
 - [C语言，50岁了！永远滴神！](https://mp.weixin.qq.com/s/Bhj0hj43jW7Ua78QENeC1g)
+- [围观Linus大佬吐槽桌面版Linux](https://mp.weixin.qq.com/s/9GoTYs9IQZ3q9saz8p8VbQ)
 
 
 ## 读书写作
@@ -1466,6 +1477,8 @@
 ---
 ## 心路历程
 
+- [2021-12-23：我的小网站被打挂了。](https://mp.weixin.qq.com/s/VtgMAMRoox97p6e8hyONng)
+- [2021-12-01：最近状态一般，聊聊正在做的一件小事](https://mp.weixin.qq.com/s/-yC_t4onUsopuIQdiFNq3w)
 - [2021-10-14：我坚持两年了！](https://mp.weixin.qq.com/s/GPVeZtMokBI_LwmcM5XEtA)
 - [2021-09-12：羊哥今年的书单！](https://mp.weixin.qq.com/s/rk0eOgioOj7yw3EjfTt5zQ)
 - [2021-08-29：读了7年通信最后还是转了码，羊哥你后悔吗？](https://mp.weixin.qq.com/s/gU5jhu9wcZHTgGuawpKE8g)
