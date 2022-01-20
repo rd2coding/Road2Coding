@@ -1065,6 +1065,7 @@
 - [C/C++开源项目：几款适合进阶学习和练手的C/C++开源项目](https://mp.weixin.qq.com/s/fNgOqKlITKa4yTbULO2Atw)
 - [人工智能开源项目：AI领域几款标杆开源项目大巡礼](https://mp.weixin.qq.com/s/I9lr_SEg70OO_v-GOIUgjQ)
 - [Python开源项目：几个炫酷的Python开源项目](https://mp.weixin.qq.com/s/Fu4OMojTJK0MrZohsLOx4w)
+- [B站开源了哪些优秀的开源项目](https://mp.weixin.qq.com/s/Uq_Pf_mn6clC9XrgKclMDw)
 - [读源码的7大心得总结](https://mp.weixin.qq.com/s/eWN7I8eHGE2exrdF3xziIA)
 
 <!-- div:right-panel -->
