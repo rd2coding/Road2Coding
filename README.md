@@ -175,7 +175,7 @@
 
 #### **在线编解码工具**
 
-- [BASE64编解码工具](https://base64.supfree.net/)
+- [BASE64编解码工具](https://abox.tools/zh/base64/)
 - [MD5编码工具](https://www.zxgj.cn/g/md5)
 - [AES/DES加解密](http://www.fly63.com/tool/cipher/)
 - [JWT解码工具](http://jwt.calebb.net/)
